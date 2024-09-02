@@ -1,0 +1,3 @@
+Żeby program funkcjonował jak należy trzeba wprowadzić za pomocą programu hasła do plików.
+Można to zrobić bezpośrednio, poprzez ręczne otworzenie pliku jednakże szyfr nie będzie działał jak należy i sam program
+będzie miał problem z dopasowaniem nazw i kategorii do hasła.
